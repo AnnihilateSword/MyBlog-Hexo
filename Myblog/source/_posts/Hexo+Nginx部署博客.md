@@ -1,6 +1,8 @@
 ---
 title: Hexo+Nginx部署博客
 tags: Hexo建站
+cover: /res/img/post/Hexo+Nginx部署博客/17.png
+top_img: /res/img/site/samurai.png
 ---
 以 Butterfly 主题为例，使用 nginx 进行部署到云服务器上
 
@@ -546,6 +548,8 @@ type: "tags"
 ---
 ```
 
+> Tips: 添加一个标签再删除需要 npx hexo clean 清理数据库才能生效
+
 #### 分类页
 
 1. 前往你的 Hexo 博客的根目录
@@ -625,6 +629,22 @@ type: "link"
 子页面也是普通的页面，你只需要 `hexo n page xxxxx` 创建你的页面就行
 
 例如创建 About 页面
+
+## 文章常用设置
+
+```md
+---
+title: UE5 C++ 加载 Json 文件
+tags: [UE5, C++]
+cover: /res/img/post/UE5 C++ 加载 Json 文件/1.png
+top_img: /res/img/site/samurai.png
+---
+```
+
+- title: 标题
+- tags: 标签
+- cover: 设置封面
+- top_img：设置顶部图片
 
 `npx hexo n page about`
 
