@@ -3,6 +3,7 @@ title: Hexo+Nginx部署博客
 tags: Hexo建站
 cover: /res/img/post/Hexo+Nginx部署博客/17.png
 top_img: /res/img/site/samurai.png
+date: 2024-02-20 00:00:00
 ---
 以 Butterfly 主题为例，使用 nginx 进行部署到云服务器上
 
