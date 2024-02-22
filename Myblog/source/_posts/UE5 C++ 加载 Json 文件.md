@@ -37,7 +37,6 @@ bool ARPGCharacter::LoadStringFromFile(const FString& FileName, const FString& R
 			else
 			{
 				UE_LOG(LogTemp, Warning, TEXT("Load Error!"));
-				return false;
 			}
 		}
 		else
@@ -139,7 +138,6 @@ bool ARPGCharacter::SaveStringToFile(const FString& FileName, const FString& Rel
 		else
 		{
 			UE_LOG(LogTemp, Warning, TEXT("Save Error!"));
-			return false;
 		}
 	}
 	return false;
