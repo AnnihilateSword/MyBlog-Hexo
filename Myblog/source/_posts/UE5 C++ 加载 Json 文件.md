@@ -5,6 +5,11 @@ cover: /res/img/post/UE5 C++ 加载 Json 文件/1.png
 top_img: /res/img/site/samurai.png
 date: 2024-02-21 00:00:00
 ---
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/F7khI3RpX-w?si=419CC-6l7scjdd8q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="800" height="450" src="//player.bilibili.com/player.html?aid=1900966805&bvid=BV1pm411S7Hn&cid=1447927173&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 # 添加 Json 模块
 
 <img src="/res/img/post/UE5 C++ 加载 Json 文件/1.png" width=800px>
